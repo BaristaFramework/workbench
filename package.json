@@ -25,15 +25,16 @@
     "react": "16.x"
   },
   "devDependencies": {
-    "nwb": "0.21.x",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
-    "@storybook/react": "^3.4.5",
     "@storybook/addon-actions": "^3.4.5",
     "@storybook/addon-links": "^3.4.5",
     "@storybook/addons": "^3.4.5",
+    "@storybook/react": "^3.4.5",
     "babel-core": "^6.26.3",
-    "babel-runtime": "^6.26.0"
+    "babel-runtime": "^6.26.0",
+    "nwb": "0.21.x",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
   },
   "author": "Head Barista",
   "homepage": "baristaframework.com",
